@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/SlimeNull/SlimeNull/raw/main/img/coding_cat.jpeg"/>
+<img width="300" align="right" src="https://github.com/SlimeNull/SlimeNull/raw/main/img/coding_cat.jpeg"/>
 
 你好呀~ 这里是 SlimeNull, 你可以叫我诺尔. 爱好有很多, 听歌, 看小说, 不过最喜欢的当然还是写代码~
 
