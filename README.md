@@ -14,6 +14,4 @@
 
 ---
 
-正在求职中, 如果有聘用意向, 请通过邮箱联系我 [slimenull@outlook.com](mailto:slimenull@outlook.com)
-
 ![.NET](https://img.shields.io/badge/-.NET-%235c5c5c) ![C#](https://img.shields.io/badge/-C%23-%238c37db) ![MTF](https://img.shields.io/badge/-MTF-%23ea63a7) ![ACGN](https://img.shields.io/badge/-ACGN-%239ac8f6)
